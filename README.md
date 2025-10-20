@@ -20,7 +20,7 @@ Ao final, imprime os tempos de execução de ambas as abordagens, permitindo obs
 ## 📂 Estrutura do Projeto
 
 - `Main.java`: Classe principal que orquestra a comparação de desempenho.
-- `CSVHandler.java`: Classe responsável por ler os arquivos CSV (não incluída aqui, mas esperada no mesmo pacote).
+- `CSVHandler.java`: Classe responsável por ler os arquivos CSV.
 
 ## ▶️ Como Executar
 
