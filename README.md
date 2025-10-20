@@ -21,9 +21,3 @@ Ao final, imprime os tempos de execução de ambas as abordagens, permitindo obs
 
 - `Main.java`: Classe principal que orquestra a comparação de desempenho.
 - `CSVHandler.java`: Classe responsável por ler os arquivos CSV.
-
-## ▶️ Como Executar
-
-1. Certifique-se de ter o **Java 21+** instalado:
-   ```bash
-   java -version
