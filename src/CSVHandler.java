@@ -12,7 +12,7 @@ public class CSVHandler {
 
 
     void lerArquivo(int indice) throws IOException {
-        String nomeArquivo = "C:\\Users\\D892630\\IdeaProjects\\FactoryOfThreads\\src\\1000RegistrosMagicos_" + indice + ".csv";
+        String nomeArquivo = "C:\\Users\\user\\IdeaProjects\\FactoryOfThreads\\src\\1000RegistrosMagicos_" + indice + ".csv";
         listaComLinhas = Files.readAllLines(Paths.get(nomeArquivo));
 
         for (int i=0; i < listaComLinhas.size(); i++){
